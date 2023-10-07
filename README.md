@@ -6,7 +6,7 @@
 I am a Computer Engineer who enjoys working with both hardware and software. I am particularly passionate about embedded systems and robotics.
 
 
-#### Cool Projects
+**Cool Projects**
 
 [**AUVControlBoard**](https://mb3hel.github.io/AUVControlBoard/) Custom 6 degree of freedom motion controller for underwater robots
 
