@@ -1,5 +1,3 @@
-### <center>Hello 👋</center>
-
 
 #### About Me
 
