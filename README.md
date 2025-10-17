@@ -18,5 +18,7 @@ I am a Computer Engineer who enjoys working with both hardware and software. I a
 **Linux/Unix Configs:**
 
 - [**shellconfig**](https://github.com/MB3hel/shellconfig) Shell (bash, zsh, sh) configurations
+
 - [**vimconfig**](https://github.com/MB3hel/vimconfig) Vim and Neovim configurations
+
 - [**tmuxconfig**](https://github.com/MB3hel/tmuxconfig/) Tmux configuration
